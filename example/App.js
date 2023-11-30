@@ -8,7 +8,7 @@ import {
   Button,
   ActivityIndicator,
 } from 'react-native';
-import {createThumbnail} from 'react-native-create-thumbnail';
+import {createThumbnail} from 'react-native-create-thumbnail-v2';
 
 const placeholderImage = require('./assets/placeholder-image.png');
 

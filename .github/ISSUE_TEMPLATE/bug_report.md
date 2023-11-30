@@ -16,7 +16,7 @@ Steps to reproduce the behavior:
 2.
 
 **Version**
-`react-native-create-thumbnail` version
+`react-native-create-thumbnail-v2` version
 
 **Expected Results**
 Describe what you expected to happen.
