@@ -1,20 +1,20 @@
 {
-  "name": "react-native-create-thumbnail",
+  "name": "react-native-create-thumbnail-v2",
   "title": "React Native Create Thumbnail",
-  "version": "1.6.4",
-  "description": "iOS/Android thumbnail generator with support for both local and remote videos",
+  "version": "1.6.5",
+  "description": "iOS/Android thumbnail generator with support for both local and remote videos but fixed android sdk version 33 build error",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souvik-ghosh/react-native-create-thumbnail.git",
-    "baseUrl": "https://github.com/souvik-ghosh/react-native-create-thumbnail"
+    "url": "git+https://github.com/simplisalesbatuhan/react-native-create-thumbnail.git",
+    "baseUrl": "https://github.com/simplisalesbatuhan/react-native-create-thumbnail"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Souvik Ghosh",
-    "email": "emailtosvk@gmail.com"
+    "name": "Batuhan Ozen",
+    "email": "batuhan@simplisales.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
